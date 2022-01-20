@@ -1,0 +1,11 @@
+// write your code here
+fun getLastDigit(a: Int): Int {
+    return a.toString().last().digitToInt()
+}
+/* Do not change code below */
+fun main() {
+    val a = readLine()!!.toInt()
+    println(getLastDigit(a))
+}
+
+

@@ -1,0 +1,69 @@
+# Project exclude paths
+/.gradle/
+/Simple Search Engine/task/build/
+/Simple Search Engine/task/out/
+/Simple Search Engine/task/out/production/classes/
+/Topics/Arrays/Initializing an array/out/
+/Topics/Arrays/Initializing an array/out/production/classes/
+/Topics/Constructors/Init usage/out/
+/Topics/Constructors/Init usage/out/production/classes/
+/Topics/Constructors/Pets/out/
+/Topics/Constructors/Pets/out/production/classes/
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
+/Topics/Debugging techniques/Log events/out/
+/Topics/Debugging techniques/Log events/out/production/classes/
+/Topics/Declaring classes/Pseudo-constructor/out/
+/Topics/Declaring classes/Pseudo-constructor/out/production/classes/
+/Topics/Declaring functions/Get last digit/out/
+/Topics/Declaring functions/Get last digit/out/production/classes/
+/Topics/Enum/Currency comparison/out/
+/Topics/Enum/Currency comparison/out/production/classes/
+/Topics/For loop and lists/Right Rotation/out/
+/Topics/For loop and lists/Right Rotation/out/production/classes/
+/Topics/Getting substrings/Exchange/out/
+/Topics/Getting substrings/Exchange/out/production/classes/
+/Topics/If expression/Boxes/out/
+/Topics/If expression/Boxes/out/production/classes/
+/Topics/Integers in action/Next even number/out/
+/Topics/Integers in action/Next even number/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a list/out/
+/Topics/Introduction to MutableList/Initializing a list/out/production/classes/
+/Topics/Jumps and returns/Beyond the word/out/
+/Topics/Jumps and returns/Beyond the word/out/production/classes/
+/Topics/Jumps and returns/First digit/out/
+/Topics/Jumps and returns/First digit/out/production/classes/
+/Topics/Jumps and returns/Getting letters from the Alphabet/out/
+/Topics/Jumps and returns/Getting letters from the Alphabet/out/production/classes/
+/Topics/Map/Products in store/out/
+/Topics/Map/Products in store/out/production/classes/
+/Topics/Named arguments/Car price/out/
+/Topics/Named arguments/Car price/out/production/classes/
+/Topics/Named arguments/Perimeter/out/
+/Topics/Named arguments/Perimeter/out/production/classes/
+/Topics/Object declarations/Blocks in a box/out/
+/Topics/Object declarations/Blocks in a box/out/production/classes/
+/Topics/Object declarations/Manager/out/
+/Topics/Object declarations/Manager/out/production/classes/
+/Topics/Processing strings/Lucky number/out/
+/Topics/Processing strings/Lucky number/out/production/classes/
+/Topics/Processing strings/The longest word/out/
+/Topics/Processing strings/The longest word/out/production/classes/
+/Topics/Processing strings/The lucky ticket/out/
+/Topics/Processing strings/The lucky ticket/out/production/classes/
+/Topics/Relational operators/Check the value (1)/out/
+/Topics/Relational operators/Check the value (1)/out/production/classes/
+/Topics/Scopes/Unlucky one/out/
+/Topics/Scopes/Unlucky one/out/production/classes/
+/Topics/String arrays/Yet another array/out/
+/Topics/String arrays/Yet another array/out/production/classes/
+/Topics/The main() function/Printing arguments/out/
+/Topics/The main() function/Printing arguments/out/production/classes/
+/Topics/The main() function/Using arguments/out/
+/Topics/The main() function/Using arguments/out/production/classes/
+/Topics/When expression/Floor-space of the room/out/
+/Topics/When expression/Floor-space of the room/out/production/classes/
+/Topics/When expression/The army of units/out/
+/Topics/When expression/The army of units/out/production/classes/
+/Topics/When expression/The number of digits/out/
+/Topics/When expression/The number of digits/out/production/classes/

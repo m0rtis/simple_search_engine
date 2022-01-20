@@ -1,1 +1,0 @@
-    val lambda: (Long, Long) -> Long = { left: Long, right: Long -> (left..right).reduce(Long::times) }

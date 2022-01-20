@@ -1,1 +1,0 @@
-    val lambda: (Int, Int) -> Int = { a, b -> maxOf(a, b) }
